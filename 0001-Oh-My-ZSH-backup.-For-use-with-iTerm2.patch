@@ -1,0 +1,47 @@
+From eaff2494d766e3b12d4fa6c1baa3b22c93f6e495 Mon Sep 17 00:00:00 2001
+From: Matt <mwave1239@gmail.com>
+Date: Wed, 4 Oct 2017 23:24:00 -0400
+Subject: [PATCH] Oh My ZSH backup. For use with iTerm2.
+
+---
+ .DS_Store | Bin 0 -> 8196 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 .DS_Store
+
+diff --git a/.DS_Store b/.DS_Store
+new file mode 100644
+index 0000000000000000000000000000000000000000..ae5f7a9fb16db06dc0bc429f270ec13679b0eb86
+GIT binary patch
+literal 8196
+zcmeHMTWl3Y82<lKV0KIC6oGaRmmVpVDn(B#wsH|qZ%9Q#!)a-`mOW>evT?gx&+a(|
+zN=-Gv_+T(z5);vAh;NwiL}Gj~@g6l^V&g69gT};1qtV1C{by!RBd0Xc7nQJ+%zQKd
+z%)dMH&9^(}-va>HRj^tC>H&aJ7RalpxJnZJBF{+`k)@Il$sfRnvFt=Jo^}1~oYAo%
+zW*}xDW*}xDW*}zZ|G)s9*&?xd&VAJzmoWn|1J@-3;{A}MEHEA6v_kpnphAWKgdzlx
+ziRu&wNS|bc=?JG4N>{q3iXJd>#VEu;<xc%cF`O_R;j}{K4yfD#qdQ|1p`g4w`6cCW
+zz_h}+j2Va-n9G28d=^0t3J^e87Qerj9e14|Or<`@iUpMm7cFLtRk3PzBy+-_$b@EC
+z2)fMtA<^nL!xP!4KH&TAY~9T6ckGD~zP#J_Leuf=ymWRfn}!@7ay-kQ=<*Am70Byk
+zREMT%OdH|G<Ye2H_LgMp?Ww7j<Ya5Ay{#qLvAJVvN@I0Rt#|bu8#{G+^32qO&#HxC
+z^m2fjvW1>6U!@xqyVX~Uif2lz{Gzl<O|LTg?%l1A@MT4s{NC}<@x5Tboeu~{cuhbH
+z?#uaJf8G}TLpk3qjCsKbug#fmuHc%X-RZg+=d>LRhxW-()D8xIKJ1nQhaK`2wh_(?
+zfxXWr2d8NFkXyh}ySQY<nsqmAOx>~d?w*<Ir8T^EnXVrsUcAsb?%4Uk3C9Xg9592N
+z?OBdDI#hH5C+pe+o;haM;t!fOv$C$f+DI6yOI_tIj5o63Le_bp;Do1U_|lqcy}`Iq
+z<CocCi)OLMx5S++*<&;qO^h89_U^n*r6nh|q1n&}0$Kz&nI<hQn{<8Pe%eqT&=kbP
+zTibMF&^5ER%PoybQ+tPQ3>6iVe0OBrwp}-dbN<*EEitIY7BY)D8J$Kq<L|Pg;@<a}
+zLAZC^_QdV$>R0wQ7{&o%@3bu2B3(A7o7J968XD6n)zau#G2m7@M0UYpuwfid!DDa^
+z9*6Vr5?q4I@EW`WAHYZOF?<4F!FTW@{0zUqukaiEfebaQ!X;?nI&8%Cn8Gc%1Jl@v
+zUAP<jaUW)I0FPh}Z9I;nIF2XrG*03fJd5Y>349Wt!sqaLd;wp?OZW=Dj&I<b_!fSM
+zpW@eQf)ypn?osVhiQiD|iU*S<8+}--IC?e7CVF??^B+m}%Oy&uH!NSVwy}9rTgUd!
+z+5Ifry}t@c>PHDg3a2CtxrJ9MkrZttR_SZzQ}iI|&OXV6c=+NOgA~$`OeDCF50lOH
+zP1LL)g){MV82T*<8fh}VKsFP%>8*@J$``8M&3d~=GUk=4cZ<G_ky`m8)w@GaYvMuU
+zATO;oC3L3!a|K?2i|{JE4eyikK7()Jd-w@{N5sWgi*;C!t8g{0#SM5fZp0Scgzb1I
+zZpCf59eZ&n?!rFO-~bNd5Dw!((x4?Z=wKcLEMSqe_z*r!N_+$#jkNeQY4HMHEK^=z
+zNplME<#Oc}GkMSTy-~84)Ow{$+`1+iSfFNIFXI2+`M>{PlWU779WxL!@b?(N%AQP5
+z7mc0o?Ji>NB;{k2MH1tt6-pN>WH?SJ!*RmdKMbj!q@ltm9pSV>vQYZhKLn^VJU;(t
+Oe|g5|zZBwiR{ROk+u<1i
+
+literal 0
+HcmV?d00001
+
+-- 
+2.14.1
+
